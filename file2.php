@@ -1,4 +1,6 @@
 <?php
 $x = 10;
-echo $ddawdaw
+echo $ddawdaw;
+AWDAW()
+awdfaw.wad4()
 ?>
