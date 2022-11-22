@@ -14,6 +14,8 @@ Person.prototype = {
 
 var a = NaN;
 
+let x = 2
+
 if (a === NaN) {  // Noncompliant; always false
   console.log("a is not a number");  // this is dead code
 }
