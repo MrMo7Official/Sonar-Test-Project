@@ -4,8 +4,8 @@ on:
     branches:
       - main # or the name of your main branch
 jobs:
-  build:
-    name: Build
+  sonarScan:
+    name: sonarScan
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
